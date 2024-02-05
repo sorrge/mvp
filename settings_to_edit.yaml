@@ -1,0 +1,7 @@
+telegram:
+  bot_token: "Go to @BotFather and get your token here"
+  chat_id: 000  # Chat ID of the conversation with your bot
+2ch:
+  board: "pr"
+  thread: 1647485  # МВП
+  passcode: "Go to https://2ch.hk/static/market.html and buy a passcode here"
